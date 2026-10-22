@@ -1,0 +1,9 @@
+accession_id,taxon,region,packets,state,revision
+AC-ALOE,Aloe star,Coastal,3,active,1
+AC-ALOE,Aloe star,Coastal,4,active,2
+AC-BEET,Beet ruby,Delta,5,active,1
+AC-CEDR,Cedar sage,Highland,2,active,1
+AC-DILL,Dill bronze,Delta,6,retired,1
+AC-ELMS,Elm fern,Coastal,7,active,1
+AC-ELMS,Elm fern,Coastal,8,pending,2
+invalid,row
