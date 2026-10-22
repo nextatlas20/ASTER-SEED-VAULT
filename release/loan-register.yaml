@@ -1,0 +1,18 @@
+review_date: 2095-03-01
+loanable_accessions:
+  - sequence: 1
+    accession_id: AC-CEDR
+    taxon: Cedar sage
+    region: Highland
+    packets: 2
+    assay_id: AS-301
+    performed_on: 2095-02-28
+    germination_pct: 86
+  - sequence: 2
+    accession_id: AC-ELMS
+    taxon: Elm fern
+    region: Coastal
+    packets: 7
+    assay_id: AS-400
+    performed_on: 2095-02-26
+    germination_pct: 80
